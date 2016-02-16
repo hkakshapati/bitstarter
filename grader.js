@@ -72,3 +72,5 @@ if(require.main == module) {
 } else {
     exports.checkHtmlFile = checkHtmlFile;
 }
+
+//added a line
